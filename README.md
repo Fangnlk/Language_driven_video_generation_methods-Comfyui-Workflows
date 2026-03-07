@@ -32,10 +32,18 @@
 
 <br/>
 
-你可以选择任何你喜欢的文生图模型。在默认的工作流中，我们使用了**Nova Anime XL**作为我们的文生图模型，以获得更好的动漫人物形象生成效果
+你可以选择任何你喜欢的文生图模型。在默认的工作流中，我们使用了**Nova Anime XL**作为我们的文生图模型，以获得更好的动漫人物形象生成效果。
 
 - [**novaAnimeXL_ilV140.safetensors**](https://civitai.com/api/download/models/2741698?type=Model&format=SafeTensor&size=pruned&fp=fp16)
 
 ### 2.完成参数与模型设置
 
-![image2](./image/image1.png)
+![image2](./image/image2.png)
+
+- 将你想要的人物形象描述文本和人物动作描述文本分别输入到两个Text Node中
+- 确保每个节点加载了正确的模型
+- 通过修改`WanVideo Sample`节点中的`steps`参数来调整视频长度
+- 点击`RUN(运行)`来生成视频
+
+### 3.视频分辨率提升(视频缩放）
+
