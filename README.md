@@ -29,3 +29,12 @@
 **CLIP Vision**
 
 - [**clip_vision_h.safetensors**](https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors?download=true)
+
+<br/>
+
+你可以选择任何你喜欢的文生图模型。在默认的工作流中，我们使用了**Nova Anime XL**作为我们的文生图模型，以获得更好的动漫人物形象生成效果
+
+- [**novaAnimeXL_ilV140.safetensors**](https://civitai.com/api/download/models/2741698?type=Model&format=SafeTensor&size=pruned&fp=fp16)
+
+### 2.完成参数与模型设置
+
