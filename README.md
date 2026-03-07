@@ -38,3 +38,4 @@
 
 ### 2.完成参数与模型设置
 
+![image2](./image/image1.png)
